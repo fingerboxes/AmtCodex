@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#2196F3</color>
+    <color name="black_semi_transparent">#B2000000</color>
+    <color name="background">#e5e5e5</color>
+    <color name="half_black">#808080</color>
+    <color name="white">#fafafa</color>
+    <color name="white_pressed">#f1f1f1</color>
+    <color name="pink">#e91e63</color>
+    <color name="pink_pressed">#ec407a</color>
+    <color name="blue_semi_transparent">#805677fc</color>
+    <color name="blue_semi_transparent_pressed">#80738ffe</color>
+    <color name="green">#4CAF50</color>
+    <color name="greenLight">#66BB6A</color>
+    <color name="druidPrimary">#795548</color>
+    <color name="druidPrimaryLight">#8D6E63</color>
+    <color name="druidAccent">#4CAF50</color>
+    <color name="druidAccentLight">#81C784</color>
+    <color name="healerPrimary">#C62828</color>
+    <color name="healerPrimaryLight">#E53935</color>
+    <color name="healerAccent">#FFC107</color>
+    <color name="healerAccentLight">#FFD54F</color>
+    <color name="wizardPrimary">#FBC02D</color>
+    <color name="wizardPrimaryLight">#FDD835</color>
+    <color name="wizardAccent">#9E9E9E</color>
+    <color name="wizardAccentLight">#BDBDBD</color>
+    <color name="bardPrimary">#03A9F4</color>
+    <color name="bardPrimaryLight">#29B6F6</color>
+    <color name="bardAccent">#607D8B</color>
+    <color name="bardAccentLight">#78909C</color>
+</resources>
